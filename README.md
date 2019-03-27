@@ -6,7 +6,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## [Live Demo](https://kms223.github.io/leaflet-storymaps-with-google-sheets/)
 - The map is hosted by GitHub and can be found at  https://kms223.github.io/leaflet-storymaps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vQux6nnlGXNbe3f-KqWyVlbUcoiJi2z1ySLRZexG0RN4XSt8dlreKhWCeGRqTNauhYF0aPz_g9_zL21/pubhtml
+- Google Sheets template https://docs.google.com/spreadsheets/d/1x5FnS_HbDdYMeU9EX8RKiGSTECGEiD54mXRoSYqitOs/edit#gid=1033046795
 
 ## Create Your Own
 - See step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
